@@ -45,7 +45,7 @@ I have used Plotly.js to build interactive charts for your dashboard.
 
 ## Step 2 - Heroku
 
-Deployed our Flask app to Heroku. 
+Deployed our Flask app to Heroku found here: https://fast-mountain-49289.herokuapp.com/
 
 
 
